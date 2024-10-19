@@ -1,0 +1,8 @@
+name: InariDemo
+version: 1.0
+main: net.foulest.ctf.test.InariDemo
+api-version: 1.19
+depend:
+  - WorldEdit
+softdepend:
+  - spark

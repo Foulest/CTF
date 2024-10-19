@@ -1,4 +1,3 @@
 rootProject.name = "Inari"
-include("Core")
-include("Development")
-
+include("core")
+include("development")
